@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
+    "name": "Abdelrahmen KHALOUF",
+    "occupation": "Éleve au lycée Marie CURIE à Strasbourg",
+    "description": "Je suis Éleve en 2nd 3, j'aime les jeux vidéo le foot et la bonne bouffe",
+    "image": "Ichigo_Kurosaki.png",
     "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "phone": "+33 7 49 81 46 80",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "6 rue Lavoisier",
+      "city": "Strasbourg",
+      "state": "France",
+      "zip": "67200"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
@@ -87,6 +87,10 @@
       {
         "name": "MongoDB",
         "level": "80%"
+      },
+      {
+        "name": "inteligence",
+        "level": "10%"
       }
     ]
   },

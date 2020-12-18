@@ -36,9 +36,6 @@ class Header extends Component {
             <h1 className="responsive-headline">Je m'appelle {name}.</h1>
             <h3>J'habite à {city}, <span>{occupation}</span>. {description}.</h3>
             <hr />
-            <ul className="social">
-               {networks}
-            </ul>
          </div>
       </div>
 

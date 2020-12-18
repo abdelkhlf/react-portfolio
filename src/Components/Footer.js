@@ -8,7 +8,7 @@ class Footer extends Component {
      <div className="row">
         <div className="twelve columns">
            <ul>
-            <li>Modified with love by the Clever Programmer team ♥️</li>
+            <li>Inspiré par Clever Programmer fait par Abdelrahmen KHALOUF avec amour et passion ♥️</li>
            </ul>
 
            <ul className="copyright">

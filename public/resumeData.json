@@ -3,7 +3,7 @@
     "name": "BLEACH",
     "occupation": "éleve au lycée de karakura à karakura",
     "description": " L'histoire de Bleach se déroule dans une version alternative de notre monde où des shinigami, les faucheurs des âmes, protègent l'espèce humaine et les âmes des morts des hollows, forme bestiale des âmes perdues.Cette lutte incessante, invisible aux yeux d'une très large majorité d'humains, se fait notamment à l'aide de Zanpakutō, des sabres spirituels liés à leurs maîtres qui peuvent se transformer. Cette réalité alternative est constituée de plusieurs mondes parallèles parmi lesquels, outre la Terre, se trouvent entre autres la Soul Society, le monde des shinigamis (alias le paradis), le Hueco Mundo, le monde des hollows (les âmes torturées) et l'Enfer (là où vont les mauvais esprits qui ont accompli des actes néfastes dans leur vie terrestre).   ",
-    "image": "Ichigo_Kurosaki.png",
+    "image": "Ichigo.png",
     "bio": "Ichigo est né un 15 juillet, 15 ans avant le début du récit et sa transformation en Shinigami. Il est le fils d'Isshin et de Masaki Kurosaki. Ses sœurs Karin et Yuzu sont nées 6 ans plus tard.chigo Kurosaki (黒崎 一護, Kurosaki Ichigo?) est un personnage du manga Bleach de Tite Kubo. Il est le protagoniste principal de la série. Au début de la série, il est présenté comme un adolescent qui a la faculté exceptionnelle de distinguer les fantômes, puis sa vie basculera lorsqu'il rencontra Rukia Kuchiki qui lui donna ses pouvoirs de Shinigami afin de sauver sa famille d'un HollowVol 1. Dès lors, il devra combattre les mauvais esprits, les hollows, pour protéger les gens et envoyer les bons esprits dans la Soul Society. On apprendra également qu'il est un Vizard et que par conséquent, il possède en lui un Hollow qu'il apprendra à contrôler.  ",
      "email": "sonny@cleverprogrammer.com",
      "phone": "+33 7 49 81 46 80",
@@ -72,7 +72,7 @@
         "level": "100%"
       },
       {
-        "name": "défe nce",
+        "name": "défence",
         "level": "60%"
       },
       {
@@ -127,11 +127,11 @@
     "testimonials": [
       {
         "text": "Il existe un monde apeller la soul society ou réside le gotei 13 composés de 12 capitaines et d'un commandant. il existe une arme appelé 'Zanpakutô' qui a l'origine de la soul society. le 'Zanpakutô' a deux forme, la premier nommé 'Shikai' le zanpakutō prend sa vraie forme. Le type d'arme et les pouvoirs associés correspondent bien à la façon d'être du shinigami. La forme peut être très variée : lance, trident, épée, sabre, masse d'armes, etc. La deusième appelé 'Bankai' le zanpakutō prend une forme souvent dérivée de la précédente mais pas toujours, son type (puissance, vitesse, maléfice, etc.). Cette forme donne de grand pouvoirs mais a souvent des règles plus restrictives propres à chacun comme un temps limité ou un temps de préparation par exemple.  ",
-        "user": "Alors que l'histoire du Gotei 13 reste plutôt inconnue dans son ensemble, l'organisation fut fondée par Genryusai Shigekuni Yamamoto, qui est resté aux commandes du groupe depuis sa conception."
+        "user": ""
       },
       {
-        "text": "",
-        "user": "Steve Wozniak... impersonator"
+        "text": "Alors que l'histoire du Gotei 13 reste plutôt inconnue dans son ensemble, l'organisation fut fondée par Genryusai Shigekuni Yamamoto, qui est resté aux commandes du groupe depuis sa conception.",
+        "user": ""
       }
     ]
   }

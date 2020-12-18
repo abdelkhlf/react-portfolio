@@ -1,17 +1,16 @@
 {
   "main": {
-    "name": "Abdelrahmen KHALOUF",
-    "occupation": "Éleve au lycée Marie CURIE à Strasbourg",
-    "description": "Je suis Éleve en 2nd 3, j'aime les jeux vidéo le foot et la bonne bouffe",
+    "name": "BLEACH",
+    "occupation": "éleve au lycée de karakura à karakura",
+    "description": " L'histoire de Bleach se déroule dans une version alternative de notre monde où des shinigami, les faucheurs des âmes, protègent l'espèce humaine et les âmes des morts des hollows, forme bestiale des âmes perdues.Cette lutte incessante, invisible aux yeux d'une très large majorité d'humains, se fait notamment à l'aide de Zanpakutō, des sabres spirituels liés à leurs maîtres qui peuvent se transformer. Cette réalité alternative est constituée de plusieurs mondes parallèles parmi lesquels, outre la Terre, se trouvent entre autres la Soul Society, le monde des shinigamis (alias le paradis), le Hueco Mundo, le monde des hollows (les âmes torturées) et l'Enfer (là où vont les mauvais esprits qui ont accompli des actes néfastes dans leur vie terrestre).   ",
     "image": "Ichigo_Kurosaki.png",
-    "bio": "Mon nom est Abdelrahmen KHALFOUF, je suis acctuellement éleve au lycée en classe de 2nd 3. ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "khaloufabdelrhamen@gmail.com",
-    "phone": "+33 7 49 81 46 80",
-    "address": {
+    "bio": "Ichigo est né un 15 juillet, 15 ans avant le début du récit et sa transformation en Shinigami. Il est le fils d'Isshin et de Masaki Kurosaki. Ses sœurs Karin et Yuzu sont nées 6 ans plus tard.chigo Kurosaki (黒崎 一護, Kurosaki Ichigo?) est un personnage du manga Bleach de Tite Kubo. Il est le protagoniste principal de la série. Au début de la série, il est présenté comme un adolescent qui a la faculté exceptionnelle de distinguer les fantômes, puis sa vie basculera lorsqu'il rencontra Rukia Kuchiki qui lui donna ses pouvoirs de Shinigami afin de sauver sa famille d'un HollowVol 1. Dès lors, il devra combattre les mauvais esprits, les hollows, pour protéger les gens et envoyer les bons esprits dans la Soul Society. On apprendra également qu'il est un Vizard et que par conséquent, il possède en lui un Hollow qu'il apprendra à contrôler.  ",
+     "email": "sonny@cleverprogrammer.com",
+     "phone": "+33 7 49 81 46 80",
+     "address": {
       "street": "6 rue Lavoisier",
-      "city": "Strasbourg",
-      "state": "France",
+      "city": "Karakura",
+      "state": "Japon",
       "zip": "67200"
     },
     "website": "http://www.timbakerdev.com",
@@ -43,50 +42,46 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Espèce",
+        "degree": "je suis humain à l'origine mais plus l'avanture avance plus j'apersois que j'ai plusieurs espèce comme:Vizard, Quincy, Shinigami et Fullbringeur",
+        "graduated": "",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Guerre de karakura",
+        "title": "Pour les shinigamis, le but de cette guerre est de protéger les humains et de tuer tous les Arrancars et Aizen. Pour Aizen, le but est de créer le Oken le clé de la famille royale et de tuer le roi pour y régner en maitre mais il doit d'abord tuer tous les shinigamis.",
+        "years": "",
+        "description": ""
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "La guerre sanglante de mille ans",
+        "title": "face au Quichy et Yhwach (Vandenreich) qui avait pour but de détruire le roi des esprits.",
+        "years": "",
+        "description": ""
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "force",
         "level": "100%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "presion spirituel",
+        "level": "100%"
       },
       {
-        "name": "Git",
+        "name": "défe nce",
         "level": "60%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "attaque",
+        "level": "100%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
-      },
-      {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "coopération",
+        "level": "20"
       },
       {
         "name": "inteligence",
@@ -131,11 +126,11 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Il existe un monde apeller la soul society ou réside le gotei 13 composés de 12 capitaines et d'un commandant. il existe une arme appelé 'Zanpakutô' qui a l'origine de la soul society. le 'Zanpakutô' a deux forme, la premier nommé 'Shikai' le zanpakutō prend sa vraie forme. Le type d'arme et les pouvoirs associés correspondent bien à la façon d'être du shinigami. La forme peut être très variée : lance, trident, épée, sabre, masse d'armes, etc. La deusième appelé 'Bankai' le zanpakutō prend une forme souvent dérivée de la précédente mais pas toujours, son type (puissance, vitesse, maléfice, etc.). Cette forme donne de grand pouvoirs mais a souvent des règles plus restrictives propres à chacun comme un temps limité ou un temps de préparation par exemple.  ",
+        "user": "Alors que l'histoire du Gotei 13 reste plutôt inconnue dans son ensemble, l'organisation fut fondée par Genryusai Shigekuni Yamamoto, qui est resté aux commandes du groupe depuis sa conception."
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "",
         "user": "Steve Wozniak... impersonator"
       }
     ]
